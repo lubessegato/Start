@@ -1,2 +1,2 @@
 # number-one
-Hello, Devs!! Me chamo Luiza, tenho 19 anos e curso Sistemas de Informação no Centro Universitário de Brusque - Unifebe. Estou iniciando no mundo da programação agora e pronto para aprender o máximo possível.
+Hello, Devs!! Me chamo Luiza, tenho 19 anos e curso Sistemas de Informação no Centro Universitário de Brusque - Unifebe. Estou iniciando no mundo da programação agora e pronta para aprender o máximo possível.
